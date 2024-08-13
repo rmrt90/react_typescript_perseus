@@ -1,6 +1,6 @@
-##React exercise demo
+# React exercise demo
 
-#INSTRUCTIONS
+## Instructions
 
 - npm intall
 - npm start
